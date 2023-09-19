@@ -1,0 +1,174 @@
+{
+    "nodes": [
+        {
+            "id": "9ecb3af9-be50-4d78-8ece-cc5246277a3a",
+            "type": "UserTask",
+            "x": 340,
+            "y": 160,
+            "properties": {
+                "siteCode": "关键战1",
+                "siteSerial": "1",
+                "tbTechnologicalProcessSiteMatterAddDtos": []
+            },
+            "text": {
+                "x": 340,
+                "y": 160,
+                "value": "关键战1"
+            }
+        },
+        {
+            "id": "a6df346e-7fb5-409a-9b01-1faaf436d405",
+            "type": "UserTask",
+            "x": 600,
+            "y": 160,
+            "properties": {
+                "siteCode": "关键战2",
+                "siteSerial": "2",
+                "tbTechnologicalProcessSiteMatterAddDtos": []
+            },
+            "text": {
+                "x": 600,
+                "y": 160,
+                "value": "关键战2"
+            }
+        },
+        {
+            "id": "dcf2de55-1e1a-4206-bc1a-96bdbcd07553",
+            "type": "UserTask",
+            "x": 860,
+            "y": 160,
+            "properties": {
+                "siteCode": "关键站3",
+                "siteSerial": "3",
+                "tbTechnologicalProcessSiteMatterAddDtos": []
+            },
+            "text": {
+                "x": 860,
+                "y": 160,
+                "value": "关键站3"
+            }
+        },
+        {
+            "id": "8135792a-7d57-4337-9bcb-ab6d7c949642",
+            "type": "realTask",
+            "x": 860,
+            "y": 320,
+            "properties": {
+                "siteCode": "维修站1",
+                "siteSerial": "1",
+                "tbTechnologicalProcessSiteMatterAddDtos": []
+            },
+            "text": {
+                "x": 860,
+                "y": 320,
+                "value": "维修站1"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "51e3af8b-eb92-4d5d-9bbb-b18675b58893",
+            "type": "polyline",
+            "sourceNodeId": "9ecb3af9-be50-4d78-8ece-cc5246277a3a",
+            "targetNodeId": "a6df346e-7fb5-409a-9b01-1faaf436d405",
+            "startPoint": {
+                "x": 400,
+                "y": 160
+            },
+            "endPoint": {
+                "x": 540,
+                "y": 160
+            },
+            "properties": {},
+            "pointsList": [
+                {
+                    "x": 400,
+                    "y": 160
+                },
+                {
+                    "x": 540,
+                    "y": 160
+                }
+            ]
+        },
+        {
+            "id": "e5a94997-1444-458d-b6c6-9fd03e556da6",
+            "type": "polyline",
+            "sourceNodeId": "a6df346e-7fb5-409a-9b01-1faaf436d405",
+            "targetNodeId": "dcf2de55-1e1a-4206-bc1a-96bdbcd07553",
+            "startPoint": {
+                "x": 660,
+                "y": 160
+            },
+            "endPoint": {
+                "x": 800,
+                "y": 160
+            },
+            "properties": {},
+            "pointsList": [
+                {
+                    "x": 660,
+                    "y": 160
+                },
+                {
+                    "x": 800,
+                    "y": 160
+                }
+            ]
+        },
+        {
+            "id": "6f7695fa-9367-4779-831f-91fe48df3d07",
+            "type": "polyline",
+            "sourceNodeId": "dcf2de55-1e1a-4206-bc1a-96bdbcd07553",
+            "targetNodeId": "8135792a-7d57-4337-9bcb-ab6d7c949642",
+            "startPoint": {
+                "x": 860,
+                "y": 200
+            },
+            "endPoint": {
+                "x": 860,
+                "y": 280
+            },
+            "properties": {},
+            "pointsList": [
+                {
+                    "x": 860,
+                    "y": 200
+                },
+                {
+                    "x": 860,
+                    "y": 280
+                }
+            ]
+        },
+        {
+            "id": "978eae83-cf40-4c72-9a56-a131c4776c78",
+            "type": "polyline",
+            "sourceNodeId": "8135792a-7d57-4337-9bcb-ab6d7c949642",
+            "targetNodeId": "9ecb3af9-be50-4d78-8ece-cc5246277a3a",
+            "startPoint": {
+                "x": 800,
+                "y": 320
+            },
+            "endPoint": {
+                "x": 340,
+                "y": 200
+            },
+            "properties": {},
+            "pointsList": [
+                {
+                    "x": 800,
+                    "y": 320
+                },
+                {
+                    "x": 340,
+                    "y": 320
+                },
+                {
+                    "x": 340,
+                    "y": 200
+                }
+            ]
+        }
+    ]
+}

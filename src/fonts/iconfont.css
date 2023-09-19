@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3325547 */
+  src: url('//at.alicdn.com/t/font_3325547_wks1ttt5mj.woff2?t=1649904765513') format('woff2'),
+       url('//at.alicdn.com/t/font_3325547_wks1ttt5mj.woff?t=1649904765513') format('woff'),
+       url('//at.alicdn.com/t/font_3325547_wks1ttt5mj.ttf?t=1649904765513') format('truetype'),
+       url('//at.alicdn.com/t/font_3325547_wks1ttt5mj.svg?t=1649904765513#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fangkeguanli:before {
+  content: "\e60b";
+}
+
+.icon-paibankaoqinguanli:before {
+  content: "\e60c";
+}
+
+.icon-yuangongsusheguanli:before {
+  content: "\e60d";
+}
+
+.icon-tongzhiguanli:before {
+  content: "\e60e";
+}
+
+.icon-renshixinxiguanli:before {
+  content: "\e60f";
+}
+
+.icon-tongjichaxun:before {
+  content: "\e610";
+}
+
+.icon-renyuangaikuang:before {
+  content: "\e611";
+}
+
+.icon-xitongguanli:before {
+  content: "\e612";
+}
+
+.icon-menjinzhaji:before {
+  content: "\e613";
+}
+
+.icon-wodeshijian:before {
+  content: "\e614";
+}
+
+.icon-pandiantongji:before {
+  content: "\e615";
+}
+
+.icon-zichangaikuang:before {
+  content: "\e616";
+}
+
+.icon-zichanguanli:before {
+  content: "\e617";
+}
+
+.icon-zhanghaoquanxian:before {
+  content: "\e618";
+}
+
+.icon-baojingguanli:before {
+  content: "\e619";
+}
+
+.icon-zichandingweishebei:before {
+  content: "\e61a";
+}
+
+.icon-xitongshezhi:before {
+  content: "\e61b";
+}
+
+.icon-zichanbiangeng:before {
+  content: "\e61c";
+}
+
+.icon-lishiguijihuanyuan:before {
+  content: "\e61d";
+}
+
+.icon-xiangmudituguanli:before {
+  content: "\e61e";
+}
+
+.icon-shikuangdianziditu:before {
+  content: "\e61f";
+}
+
+.icon-xitongguanli1:before {
+  content: "\e620";
+}
+.icon-wode:before {
+  content: "\e61f";
+}
+
+.icon-shouye:before {
+  content: "\e61e";
+}
+
+.icon-shuju:before {
+  content: "\e662";
+}
+
+.icon-xitongguanli:before {
+  content: "\e601";
+}
+
+.icon-bell-fill:before {
+  content: "\eb28";
+}
+
+.icon-shexiangtou:before {
+  content: "\e87c";
+}
+

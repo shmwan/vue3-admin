@@ -1,0 +1,27 @@
+export default {
+
+    "lineNo": "线体编号：",
+    "lineProduct": "生产产品：",
+    "shift": "当前班次：",
+    "dayShift": "白班",
+    "nightShift": "夜班",
+    "playPeople": "计划人力：",
+    "cql": "出勤率：",
+    "play": "计划产能 (pcs)",
+    "finish": "完成产量 (pcs)",
+    "rate": "当前达成率",
+    "chuQin": "出勤",
+    "qingJia": "请假",
+    "kuangGong": "旷工",
+    "zhiChu": "支出",
+    "zhiRu": "支入",
+    "hoursChan": "今日产出达成率",
+    "upph": "UPPH",
+    "timesUPPH": "实时UPPH：",
+    "AIJiepai": "今日产出节拍",
+    "gongXu": '工序名：',
+    "timesGuozhan": '实时过站总数：',
+    "timesJiepai": '实时节拍：',
+    "scrollTit": '线体用料监控：',
+    "end": "完成率"
+}

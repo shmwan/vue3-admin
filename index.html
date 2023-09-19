@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/logo.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%- title %></title>
+  </head>
+
+  <body>
+    <div id="BaseApp"></div>
+    <script src="/sockjs.min.js"></script>
+    <script src="/stomp.min.js"></script>
+    <script src="/crypto-js.js"></script>
+    <script src="/iconfont.js"></script>
+    <!-- <script src="/config.js"></script>
+    <script src="/index.js"></script> -->
+    <script src="<%= BASE_URL %>config.js"></script>
+    <script src="<%= BASE_URL %>index.js"></script>
+    <script src="<%= BASE_URL %>EasyPlayer-element.min.js"></script>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

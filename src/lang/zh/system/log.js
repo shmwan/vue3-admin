@@ -1,0 +1,22 @@
+export default {
+
+    "userNamePlh": "请输入操作人",
+    "userName": "操作人",
+    "titlePlh": "请输入模块名称",
+    "title": "模块名称",
+    "businessTypePlh": "请选择业务类型",
+    "type": "业务类型",
+    "contacts": "联系人",
+    "status": "操作状态",
+    "method": "操作方法",
+    "param": "请求参数",
+    "errorMsg": "错误信息",
+    "operTime": "操作时间",
+    "businessTypes0": "其它",
+    "businessTypes1": "新增",
+    "businessTypes2": "修改",
+    "businessTypes3": "删除",
+    "statusList0": "正常",
+    "statusList1": "异常",
+    "infoTits": "日志详情",
+}

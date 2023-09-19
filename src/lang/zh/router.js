@@ -1,0 +1,20 @@
+export default {
+  system: '系统管理',
+  home: '首页',
+  diction: '字典管理',
+  log: '日志管理',
+  role: '角色管理',
+  menu: '菜单管理',
+  baseData: '基础数据管理',
+  wlBaseInfo: '物料基础信息',
+  supplierInfo: '供应商基础信息',
+  deviation: '物料偏差规则',
+  ProductionLine: '产线管理',
+  ProductModel: '产品机型管理',
+  BOMlist: 'BOM列表',
+  FactoryManage: '工厂管理',
+  WLcheck: '物料清点管理',
+  WLweight: '物料称重',
+  organ: '组织管理',
+  '': ''
+}

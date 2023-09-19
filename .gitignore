@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.vscode
+.vscode/settings.json
+src/typings/*
+src/typings/auto-import.d.ts
+src/typings/components.d.ts
+.vscode/settings.json
